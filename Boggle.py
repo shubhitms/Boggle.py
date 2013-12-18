@@ -523,6 +523,8 @@ class BoggleEvents(BoggleGraphics):
             i += 1
         return a
 
+    # UPDATE - This function is no longer used with updated TST implemetation.
+    # Check Trie.py for TST implemention instead.
     #Helps with the base case: determines whether or not the current string of
     #letters given is a prefix for any word in the dictionary. If it is, the
     #recursive function will continue, as there is a possibility that this path
@@ -539,12 +541,16 @@ class BoggleEvents(BoggleGraphics):
                     return True
         return False
 
+    # UPDATE - This function is no longer used with updated TST implemetation.
+    # Check Trie.py for TST implemention instead.
     def startsWith(self, s, word):
         if s.startswith(word):
             return True
         else:
             return False
 
+    # UPDATE - This function is no longer used with updated TST implemetation.
+    # Check Trie.py for TST implemention instead.
     def allCharactersExist(self, s):
         #all characters in s exist on the board
         if len(s) > self.boardRows*self.boardCols: return False
