@@ -1,0 +1,19 @@
+Name: Shubhit Mohan Singh
+Andrew ID: shubhits
+Assignment: 15-112 Fall 2012 Term Project
+
+__________________________________________________________________________________________
+
+Week: November 17 - 24				
+Time spent: 20 hours
+Worked on: Initial project idea - iDJ using Gstreamer
+
+Week: Nov 25 - Dec 1				
+Time spent: 32 hours
+Worked on: Boggle - Design, approach, recursively solving the 4 by 4 board, start page, loading page, basic gameplay.
+
+Week: Dec 2 - 5				
+Time spent: 18 hours
+Worked on: Improving gameplay, adding power ups, help screen, pause and restart features, scrollbar, end-of-game screen.
+
+Total time spent: 70 hours
