@@ -19,3 +19,9 @@ How to start:
 In order to start the game, open the file Boggle.py and run it. A Tkinter canvas will appear, in which the game can be played.
 
 __________________________________________________________________________________________
+
+Shubhit Singh Term Project Video Link:
+
+http://www.youtube.com/watch?v=3Odj_w8-VL4&feature=youtu.be
+
+__________________________________________________________________________________________
